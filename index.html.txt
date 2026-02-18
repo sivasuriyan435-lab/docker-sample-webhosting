@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Docker Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>🚀 Welcome to My Docker Website</h1>
+    <p id="message">Click the button below</p>
+    <button onclick="changeText()">Click Me</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
