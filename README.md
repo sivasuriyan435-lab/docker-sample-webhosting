@@ -1,7 +1,6 @@
 ![Architecture](https://github.com/user-attachments/assets/c13b3126-efbe-43f6-a9ca-19e3ef3bf21e)
 
 1: Launch EC2 Ubuntu Instance
-
 Go to AWS EC2 → Launch Instance
 
 AMI: Ubuntu 22.04 LTS
